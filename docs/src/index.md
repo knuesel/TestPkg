@@ -13,8 +13,8 @@ f1
 Calculations:
 
 ```jldoctest
-julia> 2+2
-4
+julia> 2+5
+7
 ```
 
 ```jldoctest
